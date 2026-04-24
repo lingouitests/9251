@@ -1,0 +1,7 @@
+{
+  "nest1" : [
+      {"objInArray": "This is objInArray"},
+      "item1",
+      "item2"
+   ]
+}
